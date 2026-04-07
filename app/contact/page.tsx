@@ -165,7 +165,7 @@ export default function ContactPage() {
               href="mailto:email@exemple.com"
               className="rounded-lg bg-black px-6 py-3 font-medium text-white hover:bg-gray-800"
             >
-              Envoyer un email
+              Envoyer un e-mail
             </a>
 
             <a
