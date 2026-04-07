@@ -259,7 +259,7 @@ export default function ProjectsPage() {
 
         {/* CTA */}
         <section className="mt-14 rounded-2xl border bg-white p-10 text-center shadow-sm">
-          <h3 className="text-xl font-semibold">Disponible pour un stage</h3>
+          <h3 className="text-xl font-semibold">Disponible pour un emploi (Community manager)</h3>
           <p className="mt-2 text-gray-600">
             Je peux détailler les livrables, la méthode et les résultats de chaque réalisation.
           </p>
@@ -272,7 +272,7 @@ export default function ProjectsPage() {
               Me contacter
             </a>
             <a
-              href="/cvmarius.pdf"
+              href="/cvmarius1.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg bg-black px-6 py-3 font-medium text-white hover:bg-gray-800"

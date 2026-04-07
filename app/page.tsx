@@ -23,7 +23,7 @@ export default function HomePage() {
 
         {/* Titre */}
         <p className="mt-4 text-xl text-gray-200">
-          Diplômé en marketing numérique • À la recherche d’un stage
+          Diplômé en marketing numérique • Community manager junior
         </p>
 
         {/* Description */}
@@ -59,7 +59,7 @@ export default function HomePage() {
           </a>
 
           <a
-             href="/cvmarius.pdf"
+             href="/cvmarius1.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg bg-white px-6 py-3 font-medium text-black hover:bg-gray-200"

@@ -34,7 +34,7 @@ export default function ContactPage() {
     </h1>
 
     <p className="mx-auto mt-4 max-w-3xl text-gray-200">
-      Étudiant diplômé en marketing numérique, actuellement à la recherche d’un stage.
+      Étudiant diplômé en marketing numérique, actuellement à la recherche d’un emploi.
       N’hésitez pas à me contacter — réponse rapide.
     </p>
 
@@ -155,7 +155,7 @@ export default function ContactPage() {
 
         {/* CTA */}
         <section className="mt-14 rounded-2xl border bg-white p-10 text-center shadow-sm">
-          <h3 className="text-xl font-semibold">Disponible pour un stage</h3>
+          <h3 className="text-xl font-semibold">Disponible pour un emploi (Community Manager)</h3>
           <p className="mt-2 text-gray-600">
             Je peux partager mon CV, mes réalisations et détailler mes méthodes de travail.
           </p>
@@ -169,7 +169,7 @@ export default function ContactPage() {
             </a>
 
             <a
-              href="/cvmarius.pdf"
+              href="/cvmarius1.pdf"
               target="_blank"
               rel="noopener noreferrer"
               className="rounded-lg bg-black px-6 py-3 font-medium text-white hover:bg-gray-800"

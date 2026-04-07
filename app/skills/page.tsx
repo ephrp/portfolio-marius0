@@ -184,7 +184,7 @@ export default function SkillsPage() {
         <section className="mt-14 rounded-2xl border bg-white p-10 text-center shadow-sm">
           <h3 className="text-xl font-semibold">Intéressé par mon profil ?</h3>
           <p className="mt-2 text-gray-600">
-            Je suis à la recherche d’un stage en marketing numérique. Je peux
+            Je suis à la recherche d’un emploi en marketing numérique. Je peux
             détailler mes travaux et méthodes.
           </p>
 
@@ -196,7 +196,7 @@ export default function SkillsPage() {
               Me contacter
             </a>
             <a
-              href="/cvmarius.pdf"
+              href="/cvmarius1.pdf"
               target="_blank"
               rel="noopener noreferrer"
              className="rounded-lg bg-black px-6 py-3 font-medium text-white hover:bg-gray-800"
